@@ -1,2 +1,2 @@
 # credit
-logo made by &lt;a href="http://www.freepik.com/">Freepik&lt;/a>
+logo made by [Freepik](http://www.freepik.com/)
